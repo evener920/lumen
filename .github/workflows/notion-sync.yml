@@ -1,0 +1,31 @@
+# 方案A（兜底/最简）：定时把 Notion「文章数据库260813」同步到 GitHub md/
+# 无需任何服务器；靠 GitHub Actions 自带定时器 + 内置 GITHUB_TOKEN 提交。
+# 与已有的「清理未引用上传文件」Workflow 互不干扰，本文件只新增、不修改其它 workflow。
+name: Notion → GitHub 同步
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"   # 每 15 分钟；按需调整（如每 10 分：*/10）
+  workflow_dispatch: {}      # 允许在 Actions 页面手动触发
+
+permissions:
+  contents: write            # 允许 GITHUB_TOKEN 提交 md/ 文件
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: 同步 Notion → md/
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NOTION_DATA_SOURCE_ID: "f82feb00-ed72-82fe-93d1-07e0dd0a0435"
+          GH_OWNER: "evener920"
+          GH_REPO: "lumen"
+          GH_BRANCH: "main"
+          MD_DIR: "md"
+        run: node notion-sync/sync.mjs
