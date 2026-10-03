@@ -1,12 +1,14 @@
 ---
 author: "阿源在迭代"
+sync_status: "已推送"
 source_url: "https://mp.weixin.qq.com/s?__biz=MzI0OTM1OTU2Ng==&mid=2247486407&idx=1&sn=8cdb74f35d1f7dad340ed1de527012bb&chksm=e88be8416e15e341eb1f4700c8649dd9140001e4875b367974a9a5468ea16803d41620209732#rd"
 source: "微信"
 published: "2026-09-28T12:08:00.000+08:00"
 goodlinks: false
+github_url: "https://github.com/evener920/lumen/blob/main/md/浙大-北大开源了一个-公众号运营神器-从选题到发布一条龙--3eefeb00ed7281a1a0cefcd7be59337b.md"
 created: "2026-10-03T23:10:00.000Z"
 title: "浙大+北大开源了一个\"公众号运营神器\"，从选题到发布一条龙"
-updated: "2026-10-03T23:10:00.000Z"
+updated: "2026-10-03T23:12:00.000Z"
 ---
 
 > 💡 备注属性未写入，可能是备注属性名称或者类型被修改了，建议将字段类型设置为 rich_text，可以在小程序-操作-修改文章数据库页面进行调整
