@@ -1,12 +1,14 @@
 ---
 author: "行与未见"
+sync_status: "已推送"
 source_url: "https://mp.weixin.qq.com/s/4BLpBy2pHciZa3pm3XHg7g"
 source: "微信"
 published: "2026-09-01T19:00:00.000+08:00"
 goodlinks: false
+github_url: "https://github.com/evener920/lumen/blob/main/md/做完-clip-我又做了一个免费的-mac-小工具-unico--3eefeb00ed7281d68520ff9d22d533f0.md"
 created: "2026-10-03T05:27:00.000Z"
 title: "做完 Clip，我又做了一个免费的 Mac 小工具：Unico"
-updated: "2026-10-03T05:27:00.000Z"
+updated: "2026-10-03T05:28:00.000Z"
 ---
 
 > 💡 备注属性未写入，可能是备注属性名称或者类型被修改了，建议将字段类型设置为 rich_text，可以在小程序-操作-修改文章数据库页面进行调整
