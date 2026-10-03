@@ -1,12 +1,14 @@
 ---
 author: "产品笔记"
+sync_status: "已推送"
 source_url: "https://mp.weixin.qq.com/s?__biz=MzIyOTEzNTc2NQ==&mid=2751773208&idx=1&sn=3b34f0ee7c257187f8ea3fbe6807eee7&chksm=c8f7e4f12d911616a41e0a86a1749bda8ed8b1701423a34dd2ed9aceaac837ade15fa9872a88#rd"
 source: "微信"
 published: "2026-10-03T12:26:00.000+08:00"
 goodlinks: false
+github_url: "https://github.com/evener920/lumen/blob/main/md/太拼了-workbuddy悄悄上线太空兔神秘模型--3eefeb00ed7281258875f32baffac700.md"
 created: "2026-10-03T04:37:00.000Z"
 title: "太拼了，WorkBuddy悄悄上线太空兔神秘模型"
-updated: "2026-10-03T04:37:00.000Z"
+updated: "2026-10-03T04:38:00.000Z"
 ---
 
 > 💡 备注属性未写入，可能是备注属性名称或者类型被修改了，建议将字段类型设置为 rich_text，可以在小程序-操作-修改文章数据库页面进行调整
