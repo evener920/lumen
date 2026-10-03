@@ -1,12 +1,14 @@
 ---
 author: "大肥猫科技馆"
+sync_status: "已推送"
 source_url: "https://mp.weixin.qq.com/s?__biz=Mzg3NDIzMjEzNA==&mid=2247486856&idx=1&sn=62d52721f0a609074e5f97fbc6701c7c&chksm=cff28beeb0a9a1f7f29c8f07289bb2235e3dbb53f70f1cd2c873127fb69e5dcf3bb0f3e00bf6#rd"
 source: "微信"
 published: "2026-10-01T19:54:00.000+08:00"
 goodlinks: false
+github_url: "https://github.com/evener920/lumen/blob/main/md/vultr-免费-vps-1核512mb-三个机房可选--3eefeb00ed7281fbbc5dd9ae8310335f.md"
 created: "2026-10-03T05:27:00.000Z"
 title: "Vultr 免费 VPS：1核512MB，三个机房可选"
-updated: "2026-10-03T05:27:00.000Z"
+updated: "2026-10-03T05:28:00.000Z"
 ---
 
 > 💡 备注属性未写入，可能是备注属性名称或者类型被修改了，建议将字段类型设置为 rich_text，可以在小程序-操作-修改文章数据库页面进行调整
