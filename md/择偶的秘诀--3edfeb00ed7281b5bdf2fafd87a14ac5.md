@@ -1,12 +1,14 @@
 ---
 author: "孙要良教授讲哲学"
+sync_status: "已推送"
 source_url: "https://mp.weixin.qq.com/s?__biz=MzkxMDI4NDg1NA==&mid=2247596344&idx=1&sn=a50cc3b0ff22e3ef86e5784352f13bc8&chksm=c0e5a840adc60ad1c3f459d2e8ae7e35352cab740536d19ee423b7640bf4e24f83ba0138ce91#rd"
 source: "微信"
 published: "2026-10-03T06:00:00.000+08:00"
 goodlinks: false
+github_url: "https://github.com/evener920/lumen/blob/main/md/择偶的秘诀--3edfeb00ed7281b5bdf2fafd87a14ac5.md"
 created: "2026-10-02T23:59:00.000Z"
 title: "择偶的秘诀"
-updated: "2026-10-02T23:59:00.000Z"
+updated: "2026-10-03T00:00:00.000Z"
 ---
 
 > 💡 备注属性未写入，可能是备注属性名称或者类型被修改了，建议将字段类型设置为 rich_text，可以在小程序-操作-修改文章数据库页面进行调整
