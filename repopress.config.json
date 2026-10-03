@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "defaults": {
+    "branch": "main",
+    "framework": "auto"
+  },
+  "projects": [
+    {
+      "id": "main",
+      "name": "lumen Content",
+      "contentRoot": "content",
+      "framework": "custom",
+      "contentType": "custom",
+      "branch": "main"
+    }
+  ]
+}
