@@ -1,12 +1,14 @@
 ---
 author: "新智元"
+sync_status: "已推送"
 source_url: "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652731448&idx=1&sn=08a10efc480699c61715dc76280194ae&chksm=f0019d5291a273c696455cc930125206bbc01a6dce66515a86b90a9028113544b3fa2a54cc5a#rd"
 source: "微信"
 published: "2026-10-03T12:19:00.000+08:00"
 goodlinks: false
+github_url: "https://github.com/evener920/lumen/blob/main/md/hinton-bengio等22位巨头重磅联名-ai开始造ai-智能爆炸逼近--3eefeb00ed72817ca285fd6da391fa5e.md"
 created: "2026-10-03T05:23:00.000Z"
 title: "Hinton、Bengio等22位巨头重磅联名！AI开始造AI，智能爆炸逼近"
-updated: "2026-10-03T05:23:00.000Z"
+updated: "2026-10-03T05:25:00.000Z"
 ---
 
 > 💡 备注属性未写入，可能是备注属性名称或者类型被修改了，建议将字段类型设置为 rich_text，可以在小程序-操作-修改文章数据库页面进行调整
