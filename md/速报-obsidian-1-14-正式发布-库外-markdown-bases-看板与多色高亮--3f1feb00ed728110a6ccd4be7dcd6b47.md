@@ -5,10 +5,11 @@ source_url: "https://mp.weixin.qq.com/s?__biz=MzI2MjEyODE4OA==&mid=2650484535&id
 source: "微信"
 published: "2026-10-06T15:30:00.000+08:00"
 goodlinks: false
+github_url: "https://github.com/evener920/lumen/blob/main/md/速报-obsidian-1-14-正式发布-库外-markdown-bases-看板与多色高亮--3f1feb00ed728110a6ccd4be7dcd6b47.md"
 bear_url: "https://inbox.201573.xyz/obsidian-114-markdownbases/"
 created: "2026-10-06T08:31:00.000Z"
 title: "【速报】Obsidian 1.14 正式发布：库外 Markdown、Bases 看板与多色高亮"
-updated: "2026-10-06T08:31:00.000Z"
+updated: "2026-10-06T08:32:00.000Z"
 ---
 
 > 💡 备注属性未写入，可能是备注属性名称或者类型被修改了，建议将字段类型设置为 rich_text，可以在小程序-操作-修改文章数据库页面进行调整
