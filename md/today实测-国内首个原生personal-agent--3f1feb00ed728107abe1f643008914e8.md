@@ -5,10 +5,11 @@ source_url: "https://mp.weixin.qq.com/s?__biz=MzIyOTEzNTc2NQ==&mid=2751773396&id
 source: "微信"
 published: "2026-10-06T15:54:00.000+08:00"
 goodlinks: false
+github_url: "https://github.com/evener920/lumen/blob/main/md/today实测-国内首个原生personal-agent--3f1feb00ed728107abe1f643008914e8.md"
 bear_url: "https://inbox.201573.xyz/todaypersonal-agent/"
 created: "2026-10-06T08:31:00.000Z"
 title: "Today实测，国内首个原生Personal Agent"
-updated: "2026-10-06T08:31:00.000Z"
+updated: "2026-10-06T08:32:00.000Z"
 ---
 
 > 💡 备注属性未写入，可能是备注属性名称或者类型被修改了，建议将字段类型设置为 rich_text，可以在小程序-操作-修改文章数据库页面进行调整
