@@ -5,6 +5,7 @@ source_url: "https://mp.weixin.qq.com/s?__biz=Mzk3NTc3OTU1Mw==&mid=2247483869&id
 source: "微信"
 published: "2026-10-04T21:43:00.000+08:00"
 goodlinks: false
+github_url: "https://github.com/evener920/lumen/blob/main/md/把-b站-youtube-视频-变成一本能读的书--3f1feb00ed7281a3886ad5dafa16855d.md"
 bear_url: "https://inbox.201573.xyz/b-youtube/"
 created: "2026-10-06T23:57:00.000Z"
 title: "把 B站 / YouTube 视频，变成一本能读的书"
