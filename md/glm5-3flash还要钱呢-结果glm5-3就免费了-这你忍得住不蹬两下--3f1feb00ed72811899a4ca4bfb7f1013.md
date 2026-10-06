@@ -5,10 +5,11 @@ source_url: "https://mp.weixin.qq.com/s?__biz=MzY5MTMxNzQ3NQ==&mid=2247484147&id
 source: "微信"
 published: "2026-09-10T17:25:00.000+08:00"
 goodlinks: false
+github_url: "https://github.com/evener920/lumen/blob/main/md/glm5-3flash还要钱呢-结果glm5-3就免费了-这你忍得住不蹬两下--3f1feb00ed72811899a4ca4bfb7f1013.md"
 bear_url: "https://inbox.201573.xyz/glm53flashglm53/"
 created: "2026-10-06T23:53:00.000Z"
 title: "GLM5.3flash还要钱呢，结果GLM5.3就免费了，这你忍得住不蹬两下？"
-updated: "2026-10-06T23:53:00.000Z"
+updated: "2026-10-06T23:54:00.000Z"
 ---
 
 > 💡 备注属性未写入，可能是备注属性名称或者类型被修改了，建议将字段类型设置为 rich_text，可以在小程序-操作-修改文章数据库页面进行调整
