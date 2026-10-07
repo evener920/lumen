@@ -5,10 +5,11 @@ source_url: "https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA==&mid=2247492344&id
 source: "微信"
 published: "2026-10-06T13:17:00.000+08:00"
 goodlinks: false
+github_url: "https://github.com/evener920/lumen/blob/main/md/huashu-art-motion发布-可能是最有审美的动画skill--3f2feb00ed72813a9380ff6fdcce8f5f.md"
 bear_url: "https://inbox.201573.xyz/huashu-art-motionskill/"
 created: "2026-10-07T00:14:00.000Z"
 title: "huashu-art-motion发布！可能是最有审美的动画skill。"
-updated: "2026-10-07T00:14:00.000Z"
+updated: "2026-10-07T00:15:00.000Z"
 ---
 
 > 💡 备注属性未写入，可能是备注属性名称或者类型被修改了，建议将字段类型设置为 rich_text，可以在小程序-操作-修改文章数据库页面进行调整
