@@ -5,6 +5,7 @@ source_url: "https://mp.weixin.qq.com/s?__biz=MzYyMzU5MjE1Mg==&mid=2247484229&id
 source: "微信"
 published: "2026-09-06T12:39:00.000+08:00"
 goodlinks: false
+github_url: "https://github.com/evener920/lumen/blob/main/md/转载-小学-初中-高中电子课本下载工具-tchmaterial-parser-v4-2--3f2feb00ed728168988bcf34203ed75c.md"
 bear_url: "https://inbox.201573.xyz/tchmaterial-parser-v42/"
 created: "2026-10-07T01:38:00.000Z"
 title: "【转载】小学、初中、高中电子课本下载工具 tchMaterial-parser v4.2"
